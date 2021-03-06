@@ -21,7 +21,7 @@ let scores, count,currentScore, playing,change,rcount;
 const init = function () {
   scores =0;
   count=1;
-  rcount=25;
+  rcount=30;
   currentScore = 0;
   playing = true;
   count0El.innerHTML=rcount;
